@@ -54,7 +54,7 @@
 - [wiremock/wiremock#3463](https://github.com/wiremock/wiremock/pull/3463)
 - [checkstyle/checkstyle#20275](https://github.com/checkstyle/checkstyle/pull/20275)
 - [spring-projects/spring-petclinic#2490](https://github.com/spring-projects/spring-petclinic/pull/2490)
-- [spring-projects/spring-petclinic#2491] (https://github.com/spring-projects/spring-petclinic/pull/2491)
+- - [spring-projects/spring-petclinic#2491](https://github.com/spring-projects/spring-petclinic/pull/2491)
 
 ---
 
