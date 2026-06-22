@@ -19,7 +19,7 @@
 
 - Beginner open-source contributor
 - I enjoy solving problems and learning by building
-- Currently coding in Java, JavaScript, and C++
+- Currently coding in Java, Python, JavaScript, and C++
 - Interested in backend development, AI, clean code, and developer tooling
 
 ---
